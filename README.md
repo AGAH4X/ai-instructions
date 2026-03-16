@@ -1,2 +1,3 @@
 # ai-instructions
-instructions for ai, GithubCopilot &amp; Claude
+
+Ce repo regroupe quelques skills, agents et instructions de ma création pour GitHub Copilot et Claude.
